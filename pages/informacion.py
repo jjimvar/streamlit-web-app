@@ -1,3 +1,5 @@
+
+#Añadir librerias en requirements.txt
 import yfinance as yf
 import pandas as pd
 import streamlit as st
